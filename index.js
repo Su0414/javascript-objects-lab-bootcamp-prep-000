@@ -1,4 +1,4 @@
-var recipies;
+var recipes = new Object(null);
 
 
 
